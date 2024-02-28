@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+#container{
+	border:5px solid black;
+	border-radius:60px;
+	background-color:gray;
+	width:400px;
+	height:200px;
+	text-align:center
+	box-sizing:border-box;
+}
+.green{
+	width:90px;
+	height:90px;
+	border-radius:50%;
+	background-color:green;
+	box-sizing:border-box;
+	display:inline-block;
+	
+}
+.yellow{
+	width:90px;
+	height:90px;
+	border-radius:50%;
+	background-color:yellow;
+	box-sizing:border-box;
+	display:inline-block;
+}
+.red{
+	width:90px;
+	height:90px;
+	border-radius:50%;
+	background-color:red;
+	box-sizing:border-box;
+	display:inline-block;
+}
+#cent{
+	text-align:center;
+	padding:50px 10px;
+	
+	  }

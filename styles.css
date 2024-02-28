@@ -5,8 +5,9 @@
 	background-color:gray;
 	width:400px;
 	height:200px;
-	text-align:center
-	box-sizing:border-box;
+	
+	padding:20px 20px;
+	
 }
 .green{
 	width:90px;
@@ -15,6 +16,9 @@
 	background-color:green;
 	box-sizing:border-box;
 	display:inline-block;
+	
+
+	
 	
 }
 .yellow{
@@ -32,9 +36,10 @@
 	background-color:red;
 	box-sizing:border-box;
 	display:inline-block;
-}
-#cent{
-	text-align:center;
-	padding:50px 10px;
 	
-	  }
+}
+.cen{
+	margin:50px 10px
+}
+
+

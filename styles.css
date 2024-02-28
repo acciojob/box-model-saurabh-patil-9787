@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#container{
+.container{
 	border:5px solid black;
 	border-radius:60px;
 	background-color:gray;
